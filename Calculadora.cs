@@ -18,8 +18,8 @@ namespace Clase_Calculadora
         }
         public Calculadora(double nnum1, double nnum2)
         {
-            nnum1 = num1;
-            nnum2 = num2;
+            num1 = nnum1;
+            num2 = nnum2;
         }
         public void SetNum1(double nnum1)
         {
